@@ -14,7 +14,7 @@
 # .env
 
 # Ignore secrets.yml
-secrets.yml
+*.yml
 
 ## Specific to RubyMotion:
 .dat*
